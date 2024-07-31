@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="744"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="400" y="255" type="line"/>
+      <point x="398" y="238"/>
+      <point x="380" y="196"/>
+      <point x="365" y="186" type="qcurve" smooth="yes"/>
+      <point x="70" y="0" type="line"/>
+      <point x="36" y="84" type="line"/>
+      <point x="309" y="264" type="line"/>
+      <point x="36" y="444" type="line"/>
+      <point x="70" y="528" type="line"/>
+      <point x="365" y="342" type="line" smooth="yes"/>
+      <point x="380" y="333"/>
+      <point x="399" y="290"/>
+      <point x="401" y="273" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="699" y="255" type="line"/>
+      <point x="697" y="238"/>
+      <point x="679" y="196"/>
+      <point x="664" y="186" type="qcurve" smooth="yes"/>
+      <point x="369" y="0" type="line"/>
+      <point x="335" y="84" type="line"/>
+      <point x="608" y="264" type="line"/>
+      <point x="335" y="444" type="line"/>
+      <point x="369" y="528" type="line"/>
+      <point x="664" y="342" type="line" smooth="yes"/>
+      <point x="679" y="333"/>
+      <point x="698" y="290"/>
+      <point x="700" y="273" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
